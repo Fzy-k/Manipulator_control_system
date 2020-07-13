@@ -1,0 +1,8 @@
+#include "sys.h"
+
+void Movement_Order(void);
+void TIM3_PWM_Init(u16 arr,u16 psc);
+void Dao_Pin_Init(void);
+extern 	u8 data;
+
+
